@@ -4,24 +4,24 @@
 
 Soy un Desarrollador Full Stack con experiencia en soporte técnico, servicio al cliente y control de calidad. Actualmente estoy trabajando en un sistema de facturación e historias clínicas basado en Django, donde manejo la mayor parte del desarrollo con Django y JavaScript en un equipo pequeño y ágil.
 
-## 💻 Tech Stack
-- **Languages & Frameworks:** Python, Django, JavaScript (jQuery), HTML, CSS, Bootstrap
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, Figma, AnyDesk
-- **Learning:** React, Node.js, REST APIs, cloud deployment
+## 💻 Stack Tecnológico
+- **Lenguajes y Frameworks:** Python, Django, JavaScript (jQuery), HTML, CSS, Bootstrap
+- **Bases de datos:** PostgreSQL
+- **Herramientas:** Git, GitHub, Figma, AnyDesk
+- **Aprendizaje:** React, Node.js, REST APIs, cloud deployment
 
-## 🛠️ Current Projects
-- Building out authentication, invoicing logic, and front-end interfaces.
-- Single page weather app designed through Figma, implemented in React.
+## 🛠️ Proyectos actuales
+- Construcción de módulo y lógica de facturación, APIs REST e interfaces de usuarios.
+- Aplicación de una sóla página para ver el clima. Diseñada con Figma, implementada en React. 
 
-## 🎓 Ongoing Learning
-- IBM Full Stack Software Developer Certificate (Coursera)
-- Figma, HTML, CSS & JavaScript for UI/UX Design (Udemy)
+## 🎓 Educación
+- Desarrollador Full Stack - Certificado Profesional de IBM
+- Figma, HTML, CSS & JavaScript para diseño de UI/UX (Udemy)
 
-## 🌎 Languages
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (Professional)
+## 🌎 Lenguajes
+- 🇪🇸 Español (Nativo)
+- 🇺🇸 Inglés (Profesional)
 
 ---
 
-Feel free to connect or check out my repositories below. Thanks for stopping by!
+Siéntanse a gusto si quieren contactar conmigo o revisar los repositorios de más abajo. Gracias por pasar!
