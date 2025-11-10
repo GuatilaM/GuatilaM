@@ -1,24 +1,27 @@
 [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/GuatilaM/GuatilaM/blob/main/README.es.md)
 
-# 👋 Hello! I’m Diego
+# Hi, hello! I'm Diego, I like bread, plants and coding stuff. 
 
 I’m a Full Stack Developer with a background in tech support, customer service, and QA. I’m currently working on a Django-based medical records and invoicing system, where I handle most of the Django and JavaScript development in a small, agile team.
 
-## 💻 Tech Stack
+## Tech Stack 💻
 - **Languages & Frameworks:** Python, Django, JavaScript (jQuery), HTML, CSS, Bootstrap
 - **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, Figma, AnyDesk
-- **Learning:** React, Node.js, REST APIs, cloud deployment
+- **Tools:** Git, GitHub, Figma, AnyDesk, REST APIs
+- **Learning:** React, Node.js, cloud deployment, Google ADK 🤖
 
-## 🛠️ Current Projects
+## Current Projects 🛠️
 - Building out authentication, invoicing logic, and front-end interfaces.
 - Single page weather app designed through Figma, implemented in React.
+- Experimenting with LLM agents to help users think about environmental information.
 
-## 🎓 Ongoing Learning
+## Certificates 📜
 - IBM Full Stack Software Developer Certificate (Coursera)
+
+## Ongoing Learning 🎓
 - Figma, HTML, CSS & JavaScript for UI/UX Design (Udemy)
 
-## 🌎 Languages
+## Languages 🌎
 - 🇪🇸 Spanish (Native)
 - 🇺🇸 English (Professional)
 
