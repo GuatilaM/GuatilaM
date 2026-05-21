@@ -2,26 +2,26 @@
 
 # Hi, hello! I'm Diego, I like bread, plants and coding stuff. 
 
-I’m a Full Stack Developer with a background in tech support, customer service, and QA. I’m currently working on a Django-based medical records and invoicing system, where I handle most of the Django and JavaScript development in a small, agile team.
+I’m a Full Stack Developer with a background in tech support. I'm currently working on data engineering projects, leveraging Databricks for building ETL pipelines.
 
-## Tech Stack 💻
-- **Languages & Frameworks:** Python, Django, JavaScript (jQuery), HTML, CSS, Bootstrap
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, Figma, AnyDesk, REST APIs
-- **Learning:** React, Node.js, cloud deployment, Google ADK 🤖
+## Tech Stack 
+- **Languages & Frameworks:** Python, Django, JavaScript, SQL, PySpark 
+- **Tools:** Git, GitHub, REST APIs, Databricks, AWS
 
-## Current Projects 🛠️
-- Building out authentication, invoicing logic, and front-end interfaces.
-- Single page weather app designed through Figma, implemented in React.
-- Experimenting with LLM agents to help users think about environmental information.
+## Current Projects 
+- Experimenting with LLM agents and orchestration.
+- Experimenting with ML and ETL pipelines.
 
-## Certificates 📜
-- IBM Full Stack Software Developer Certificate (Coursera)
+## Certificates 
+- Databricks Certified Data Engineer Associate
+- IBM Full Stack Software Developer Certificate
 
-## Ongoing Learning 🎓
-- Figma, HTML, CSS & JavaScript for UI/UX Design (Udemy)
+## Ongoing Learning 
+- AWS Solutions Architect Cert
+- Apache Spark
+- Databricks Data Engineering
 
-## Languages 🌎
+## Languages 
 - 🇪🇸 Spanish (Native)
 - 🇺🇸 English (Professional)
 
